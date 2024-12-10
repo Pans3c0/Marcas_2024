@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(182, 180, 180);
+}
+
+h1 {
+    letter-spacing:5px; 
+    text-align: center;
+}
+
+h2 {
+    background-color: gray; 
+    padding: 5px;
+}
+
+em {
+    color: red;
+}
+
+pre {
+    margin-left: 200px;
+}
+
+.peque {
+    color:bisque; 
+    margin: 6px;
+}

@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Permanent+Marker&display=swap');
+h1 {text-align: center; text-transform: uppercase; letter-spacing: 10px ; font-family: 'Fascinate Inline', cursive ;}
+p {text-align: center; }
+body {background-color: rgb(137, 33, 255); }
+cite {text-decoration: underline;} 
+strong {color: red; font-family: Montserrat, sans-serif;}
+b {font-family: 'Permanent Maker', cursive ; font-size:20px; text-decoration: overline;}
+pre {text-align: end; color: white;text-decoration: underline ;font-size: 30px ; font-family: 'Open Sans', sans-serif;}

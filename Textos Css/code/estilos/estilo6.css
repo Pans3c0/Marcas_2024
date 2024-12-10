@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(160, 216, 226);
+}
+
+h1 {
+    text-decoration: underline; 
+    text-align: center;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color:rgb(24, 142, 252);
+     padding: 5px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    background-color:rgb(27, 208, 253); 
+    padding: 5px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color:white
+}
+
+pre {
+    background-color: white;
+}

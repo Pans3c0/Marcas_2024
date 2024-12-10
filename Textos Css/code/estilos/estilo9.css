@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Permanent+Marker&display=swap');
+h1 {
+    text-align: center; 
+    text-transform: uppercase; 
+    letter-spacing: 10px ; 
+    font-family: 'Fascinate Inline', cursive ;
+}
+p {
+    text-align: center; 
+}
+body {background-color: #eca;}
+cite {text-decoration: underline;} 
+b {font-family: 'Permanent Maker', cursive ; font-size:20px}
+pre {text-align: end; color: white; font-size: 30px ; font-family: 'Open Sans', sans-serif;}

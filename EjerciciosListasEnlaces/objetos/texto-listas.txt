@@ -1,0 +1,52 @@
+Tipos de Listas en HTML  
+En esta página, aprenderás sobre tres tipos de listas en HTML: listas ordenadas, listas sin orden, y listas de definición. Cada tipo tiene sus características y usos específicos.
+
+Lista Ordenada  
+Una lista ordenada es aquella cuyos elementos están numerados. Es ideal para mostrar contenido que sigue un orden específico, como pasos de un proceso.
+
+Ejemplo:  
+1. Preparar los ingredientes  
+2. Precalentar el horno  
+3. Mezclar los ingredientes  
+4. Hornear por 30 minutos  
+5. Dejar enfriar y servir  
+
+Este tipo de lista es útil cuando se requiere que el orden de los elementos sea significativo.
+
+Lista Sin Orden  
+Una lista sin orden presenta elementos que no tienen una secuencia definida. Es comúnmente usada para enumerar características o ítems sin prioridad.
+
+Ejemplo:  
+- Leche  
+- Huevos  
+- Pan  
+- Fruta  
+
+Este tipo de lista es útil para mostrar ítems donde el orden no es importante.
+
+Lista de Definición  
+Las listas de definición son útiles para definir términos o elementos con sus descripciones correspondientes. En HTML, esto se logra con la etiqueta <dl> (lista de definiciones), <dt> (término) y <dd> (descripción).
+
+Ejemplo:  
+HTML  
+Lenguaje de marcado utilizado para crear páginas web.  
+CSS  
+Lenguaje de hojas de estilo usado para describir la presentación de documentos HTML.  
+JavaScript  
+Lenguaje de programación utilizado para añadir interactividad a las páginas web.  
+
+Las listas de definición son excelentes para glosarios o tablas de términos.
+
+Consulta estas Webs:  
+Listas en W3Schools  
+Listas en Manz - Lenguaje HTML  
+Listas de descripciones MDN Web docs 
+
+
+Página sobre Listas en HTML. Módulo Lenguajes de Marcas
+
+------------
+URLS:
+Glosario en la rae: https://dle.rae.es/glosario
+"https://www.w3schools.com/html/html_lists.asp" 
+        "https://lenguajehtml.com/html/agrupacion/etiquetas-html-ul-ol/" 	"https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#listas_de_descripciones" 

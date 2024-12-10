@@ -1,0 +1,39 @@
+body {
+    background-color:#a7d5f3;
+}
+        
+h1 {
+    text-align: end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+cambio {
+    color:red;
+    font-family:cursive;
+}
+
+h2 {
+    padding: 5px;
+    font-family:'Courier New', Courier, monospace ;
+    text-transform: uppercase;
+}
+
+b {
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+strong {
+    color:rgb(238, 142, 24);
+    font-weight: 600;
+}
+
+i {
+    color:green;
+    background-color: white;
+}
+
+fecha {
+    color:rgb(238, 142, 24);
+}

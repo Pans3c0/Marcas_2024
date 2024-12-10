@@ -1,0 +1,26 @@
+p2 {
+    font-size:10px
+}
+
+s {
+    color:blue; 
+    vertical-align:sub
+}
+
+u {
+    color:green; 
+    vertical-align:super
+}
+
+.cero {
+    font: size 6px
+}
+
+.uno {
+    font: size 6px; 
+    vertical-align:super
+}
+
+.dos {
+    vertical-align:sub
+}

@@ -1,0 +1,9 @@
+p {
+    text-decoration:overline; 
+    text-indent:50px
+}
+
+strong {
+    color:blue;
+    font-size: 2em;
+}
