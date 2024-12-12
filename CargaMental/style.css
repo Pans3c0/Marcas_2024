@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playwrite+HR+Lijeva+Guides&display=swap');
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -17,11 +18,15 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.5rem;
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
 }
 
 header .subtitle {
     font-size: 1.2rem;
     margin-top: 0.5rem;
+    
 }
 
 nav {
@@ -35,10 +40,16 @@ nav ul {
     display: flex;
     justify-content: center;
     margin: 0;
+    font-family: "Playwrite HR Lijeva Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 nav ul li {
     margin: 0 1rem;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 nav ul li a {
@@ -46,6 +57,9 @@ nav ul li a {
     text-decoration: none;
     padding: 0.5rem 1rem;
     display: block;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
 }
 
 nav ul li a:hover {
@@ -57,6 +71,9 @@ main {
     padding: 2rem;
     background: #181818;
     color: #fff;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .enlaces{
     text-decoration-color: #D98FD4;
@@ -71,6 +88,12 @@ main {
 
 main h2 {
     color: #D98FD4;
+    font-family: "Agu Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 0;
 }
 
 footer {
@@ -78,6 +101,9 @@ footer {
     color: white;
     padding: 1.5rem;
     text-align: center;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal
 }
 
 footer form {
@@ -130,6 +156,12 @@ p {
 strong {
     color: #FFB6C1;
     font-weight: bold;
+    font-family: "Agu Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: italic;
+    font-variation-settings:
+     "MORF" 0;
 }
 
 em {
@@ -186,4 +218,17 @@ dd {
 
 a, button {
     transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.imagen-contenedor {
+    width: 500px;
+    height: 300px;
+    overflow: hidden; 
+}
+
+.imagen-contenedor img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
 }
