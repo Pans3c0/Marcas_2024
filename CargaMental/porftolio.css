@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Inconsolata:wght@200..900&family=Jacquard+12&family=Silkscreen:wght@400;700&display=swap');
+.tittle {
+    font-family: "Silkscreen", serif;
+    font-size: 75px;
+    color: var(--color-titulo);
+    font-style: normal;
+  }
+.subtitle {
+font-family: "Silkscreen", serif;
+color: var(--color-secondary);
+font-size: 15px;
+font-style: normal;
+}
+.tittle2 {
+    font-family: "Jacquard 12", serif;
+    font-size: 45px;
+    font-style: normal;
+    color: var(--color-titulo);
+  }
+#particles-js {
+    background-image: url('./imagenes/Background.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    width: 100%;
+    height: 100vh;
+    background-color: #1a1a1a;
+    z-index: -1;  /* color de fondo */
+  }
+
+  
+ 
+  /* Definir variables de colores */
+:root {
+    --color-titulo: #CBC5D9; /* Azul principal */
+    --color-secondary: #9F96D9; /* Verde secundario */
+    --color-accent: #9F96D9; /* Rojo para acentos */
+    --color-background: #5A24A6; /* Fondo claro */
+    --color-text: #F2E4E4; /* Color de texto */
+    --color-border: #BDF2AE; /* Borde gris */
+}
+
+.UI/UX-1-hex { color: #BFAEB3; }
+.UI/UX-2-hex { color: #736355; }
+.UI/UX-3-hex { color: #403A35; }
+.UI/UX-4-hex { color: #F2E4E4; }
+.UI/UX-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.UI/UX-1-rgba { color: rgba(191, 174, 178, 1); }
+.UI/UX-2-rgba { color: rgba(114, 98, 84, 1); }
+.UI/UX-3-rgba { color: rgba(63, 57, 52, 1); }
+.UI/UX-4-rgba { color: rgba(242, 227, 227, 1); }
+.UI/UX-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.UI/UX-1-hsla { color: hsla(343, 11, 71, 1); }
+.UI/UX-2-hsla { color: hsla(28, 14, 39, 1); }
+.UI/UX-3-hsla { color: hsla(28, 9, 22, 1); }
+.UI/UX-4-hsla { color: hsla(0, 36, 92, 1); }
+.UI/UX-5-hsla { color: hsla(0, 0, 5, 1); }
+
+
+/* Color Theme Swatches in Hex */
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-1-hex { color: #5A24A6; }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-2-hex { color: #CBC5D9; }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-3-hex { color: #9F96D9; }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-4-hex { color: #2B3040; }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-5-hex { color: #BDF2AE; }
+
+/* Color Theme Swatches in RGBA */
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-1-rgba { color: rgba(90, 36, 165, 1); }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-2-rgba { color: rgba(203, 197, 216, 1); }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-3-rgba { color: rgba(158, 149, 216, 1); }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-4-rgba { color: rgba(42, 47, 63, 1); }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-5-rgba { color: rgba(189, 242, 174, 1); }
+
+/* Color Theme Swatches in HSLA */
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-1-hsla { color: hsla(264, 63, 39, 1); }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-2-hsla { color: hsla(258, 20, 81, 1); }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-3-hsla { color: hsla(247, 46, 71, 1); }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-4-hsla { color: hsla(225, 19, 20, 1); }
+.AppFlowly-CRM---AI-collaborative-workspace-UI-UX-Design-5-hsla { color: hsla(106, 72, 81, 1); }
+
+
+/* Color Theme Swatches in Hex */
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-1-hex { color: #524373; }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-2-hex { color: #413659; }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-3-hex { color: #2ABF4F; }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-4-hex { color: #A66844; }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-5-hex { color: #8C4F49; }
+
+/* Color Theme Swatches in RGBA */
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-1-rgba { color: rgba(81, 66, 114, 1); }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-2-rgba { color: rgba(65, 54, 89, 1); }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-3-rgba { color: rgba(42, 191, 79, 1); }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-4-rgba { color: rgba(165, 103, 67, 1); }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-5-rgba { color: rgba(140, 78, 72, 1); }
+
+/* Color Theme Swatches in HSLA */
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-1-hsla { color: hsla(258, 26, 35, 1); }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-2-hsla { color: hsla(258, 24, 28, 1); }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-3-hsla { color: hsla(135, 63, 45, 1); }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-4-hsla { color: hsla(22, 41, 45, 1); }
+.ComplyX-|-Banking-Transaction-Research-SaaS-Tool-5-hsla { color: hsla(5, 31, 41, 1); }
+
+
+nav {
+    margin-top: 50px;
+    color: var(--color-text);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+}
+
+nav li {
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+nav li:hover {
+    color: var(--color-accent); /* Color al pasar el ratón */
+}
