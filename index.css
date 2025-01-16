@@ -14,19 +14,39 @@ header {
 }
 
 nav ul {
-    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
     margin: 0;
     padding: 0;
 }
 
 nav li {
-    display: inline-block;
+    list-style: none;
+    padding: 1em;
     margin-right: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #995b95;
 }
 
 main {
     padding: 20px;
     text-align: center;
+}
+
+main .izquierda{
+    grid-area: i;
+}
+
+main .centro{
+    grid-area: c;
+}
+
+main .derecha{
+    grid-area: d;
 }
 
 img {
@@ -53,4 +73,12 @@ footer {
     color: #fff;
     padding: 10px;
     text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    gap: 10px;
+    grid-template-areas:
+    "i c d";
+
 }

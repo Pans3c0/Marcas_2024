@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hero{
+    align-items:center;
+    background-image: url(/imagenes/background.jpg);
+    background-size:cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    height: 400px;
+    justify-content:center;
+
+}
